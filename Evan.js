@@ -12,7 +12,7 @@ function addToDo(event) {
   DOMSelectors.userInput.value = "";
 }
 
-function displayToDoList(array) {
+function displayToDoList(array){
   array.forEach((inputs) => {
     DOMSelectors.toDoList.insertAdjacentHTML(
       "beforeend",
