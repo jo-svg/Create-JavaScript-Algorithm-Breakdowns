@@ -1,7 +1,9 @@
 angelina thing
 
 1. insertText(inputContent, type), takes the inputcontent and creates a paragraph of the item if type is a file but if it isnt a file they just put the item's text content. 
-2. 2
+2. it takes the content and creates a card for each item 
+3. if you change the type == to a different type for the if(type == "file") to text it would only run that line of code if it was a text
+
 
 
 
